@@ -14,6 +14,6 @@ The problem of the project can be downloaded from the official website of the IC
 
 題目可從IC競賽官網下載
 
-tb.v is the testbench provided by official.
-geofence.v is the verilog code designed by me.
-sqrt.v is the ip core create by quartus
+*** tb.v is the testbench provided by official.
+*** geofence.v is the verilog code designed by me.
+*** sqrt.v is the ip core create by quartus
