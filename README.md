@@ -16,4 +16,4 @@ The problem of the project can be downloaded from the official website of the IC
 
 *** tb.v is the testbench provided by official.
 *** geofence.v is the verilog code designed by me.
-*** sqrt.v is the ip core create by quartus
+*** sqrt.v is the ip core created by quartus
